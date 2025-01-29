@@ -1,0 +1,33 @@
+{
+  "countries": [
+    {
+      "countryName": "Thailand",
+      "officialName": "Kingdom of Thailand",
+      "capital": "Bangkok",
+      "mainReligion": "Buddhism",
+      "language": "Thai",
+      "leader": {
+        "title": "Prime Minister",
+        "first": "Paetongtarn",
+        "last": "Shinawatra"
+      },
+      "population": "65,975,198",
+      "currency": "Thai baht",
+      "flag": "https://www.worldometers.info/img/flags/th-flag.gif",
+      "landmarks": {
+        "1": "Wat Arun",
+        "2": "The Grand Palace",
+        "3": "The Emerald Lagoon",
+        "4": "Khao Yai National Park",
+        "5": "Wat Rong Khun"
+      },
+      "cuisine": {
+        "1": "Khao soi",
+        "2": "Pad krapow",
+        "3": "Mango sticky rice",
+        "4": "Boat noodle",
+        "5": "Som tam"
+      }
+    }
+  ]
+}
