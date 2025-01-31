@@ -28,7 +28,7 @@
         "4": "Boat noodle",
         "5": "Som tam"
       }
-    }
+    },
     {
       "countryName": "France",
       "officialName": "French Republic",
@@ -173,7 +173,7 @@
         "4": "Buffalo wings",
         "5": "Barbecue ribs"
       }
-    }
+    },
     {
       "countryName": "Greece",
       "officialName": "Hellenic Republic",
@@ -347,7 +347,7 @@
         "4": "Caldo verde",
         "5": "Bifana"
       }
-    }
+    },
     {
       "countryName": "United Kingdom",
       "officialName": "United Kingdom of Great Britain and Northern Ireland",
@@ -434,7 +434,7 @@
         "4": "Raclette",
         "5": "Basler läckerli"
       }
-    }
+    },
     {
       "countryName": "Ukraine",
       "officialName": "Ukraine",
@@ -521,7 +521,7 @@
         "4": "Butter tarts",
         "5": "Nanaimo bars"
       }
-    }
+    },
     {
       "countryName": "Sweden",
       "officialName": "Kingdom of Sweden",
@@ -695,7 +695,7 @@
         "4": "Lahmacun",
         "5": "Menemen"
       }
-    }
+    },
     {
       "countryName": "El Salvador",
       "officialName": "Republic of El Salvador",
@@ -726,5 +726,4 @@
       }
     }
   ]
-  
 }
