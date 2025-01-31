@@ -29,5 +29,702 @@
         "5": "Som tam"
       }
     }
+    {
+      "countryName": "France",
+      "officialName": "French Republic",
+      "capital": "Paris",
+      "mainReligion": "Christianity (Catholicism)",
+      "language": "French",
+      "leader": {
+        "title": "President",
+        "first": "Emmanuel",
+        "last": "Macron"
+      },
+      "population": "68,042,591",
+      "currency": "Euro",
+      "flag": "https://www.worldometers.info/img/flags/fr-flag.gif",
+      "landmarks": {
+        "1": "Eiffel Tower",
+        "2": "Louvre Museum",
+        "3": "Mont Saint-Michel",
+        "4": "Palace of Versailles",
+        "5": "Notre-Dame Cathedral"
+      },
+      "cuisine": {
+        "1": "Baguette",
+        "2": "Coq au vin",
+        "3": "Croissant",
+        "4": "Ratatouille",
+        "5": "Bouillabaisse"
+      }
+    },
+    {
+      "countryName": "Mexico",
+      "officialName": "United Mexican States",
+      "capital": "Mexico City",
+      "mainReligion": "Christianity (Catholicism)",
+      "language": "Spanish",
+      "leader": {
+        "title": "President",
+        "first": "Andrés Manuel",
+        "last": "López Obrador"
+      },
+      "population": "126,705,138",
+      "currency": "Mexican peso",
+      "flag": "https://www.worldometers.info/img/flags/mx-flag.gif",
+      "landmarks": {
+        "1": "Chichen Itza",
+        "2": "Teotihuacan",
+        "3": "Copper Canyon",
+        "4": "Tulum Ruins",
+        "5": "Palenque"
+      },
+      "cuisine": {
+        "1": "Tacos",
+        "2": "Tamales",
+        "3": "Mole poblano",
+        "4": "Chiles en nogada",
+        "5": "Pozole"
+      }
+    },
+    {
+      "countryName": "Spain",
+      "officialName": "Kingdom of Spain",
+      "capital": "Madrid",
+      "mainReligion": "Christianity (Catholicism)",
+      "language": "Spanish",
+      "leader": {
+        "title": "Prime Minister",
+        "first": "Pedro",
+        "last": "Sánchez"
+      },
+      "population": "47,684,439",
+      "currency": "Euro",
+      "flag": "https://www.worldometers.info/img/flags/sp-flag.gif",
+      "landmarks": {
+        "1": "Sagrada Familia",
+        "2": "Alhambra",
+        "3": "Park Güell",
+        "4": "Plaza Mayor",
+        "5": "Royal Palace of Madrid"
+      },
+      "cuisine": {
+        "1": "Paella",
+        "2": "Tapas",
+        "3": "Churros",
+        "4": "Croquette",
+        "5": "Gazpacho"
+      }
+    },
+    {
+      "countryName": "Italy",
+      "officialName": "Italian Republic",
+      "capital": "Rome",
+      "mainReligion": "Christianity (Catholicism)",
+      "language": "Italian",
+      "leader": {
+        "title": "Prime Minister",
+        "first": "Giorgia",
+        "last": "Meloni"
+      },
+      "population": "58,870,762",
+      "currency": "Euro",
+      "flag": "https://www.worldometers.info/img/flags/it-flag.gif",
+      "landmarks": {
+        "1": "Colosseum",
+        "2": "Leaning Tower of Pisa",
+        "3": "Venice Canals",
+        "4": "Pantheon",
+        "5": "Amalfi Coast"
+      },
+      "cuisine": {
+        "1": "Arancini",
+        "2": "Pasta carbonara",
+        "3": "Gelato",
+        "4": "Lasagna",
+        "5": "Risotto"
+      }
+    },
+    {
+      "countryName": "United States",
+      "officialName": "United States of America",
+      "capital": "Washington, D.C.",
+      "mainReligion": "Christianity",
+      "language": "English",
+      "leader": {
+        "title": "President",
+        "first": "Joe",
+        "last": "Biden"
+      },
+      "population": "331,893,745",
+      "currency": "United States Dollar",
+      "flag": "https://www.worldometers.info/img/flags/us-flag.gif",
+      "landmarks": {
+        "1": "Statue of Liberty",
+        "2": "Grand Canyon",
+        "3": "Mount Rushmore",
+        "4": "Yellowstone National Park",
+        "5": "Empire State Building"
+      },
+      "cuisine": {
+        "1": "Pizza",
+        "2": "Hot dog",
+        "3": "Apple pie",
+        "4": "Buffalo wings",
+        "5": "Barbecue ribs"
+      }
+    }
+    {
+      "countryName": "Greece",
+      "officialName": "Hellenic Republic",
+      "capital": "Athens",
+      "mainReligion": "Christianity (Eastern Orthodox)",
+      "language": "Greek",
+      "leader": {
+        "title": "Prime Minister",
+        "first": "Kyriakos",
+        "last": "Mitsotakis"
+      },
+      "population": "10,432,481",
+      "currency": "Euro",
+      "flag": "https://www.worldometers.info/img/flags/gr-flag.gif",
+      "landmarks": {
+        "1": "Acropolis of Athens",
+        "2": "Santorini",
+        "3": "Meteora",
+        "4": "Delphi",
+        "5": "Mykonos"
+      },
+      "cuisine": {
+        "1": "Moussaka",
+        "2": "Souvlaki",
+        "3": "Dolma",
+        "4": "Spanakopita",
+        "5": "Baklava"
+      }
+    },
+    {
+      "countryName": "Germany",
+      "officialName": "Federal Republic of Germany",
+      "capital": "Berlin",
+      "mainReligion": "Christianity (Protestant and Catholic)",
+      "language": "German",
+      "leader": {
+        "title": "Chancellor",
+        "first": "Olaf",
+        "last": "Scholz"
+      },
+      "population": "83,200,000",
+      "currency": "Euro",
+      "flag": "https://www.worldometers.info/img/flags/gm-flag.gif",
+      "landmarks": {
+        "1": "Brandenburg Gate",
+        "2": "Neuschwanstein Castle",
+        "3": "Cologne Cathedral",
+        "4": "Berlin Wall Memorial",
+        "5": "Black Forest"
+      },
+      "cuisine": {
+        "1": "Bratwurst",
+        "2": "Sauerbraten",
+        "3": "Pretzel",
+        "4": "Schwarzwälder kirschtorte",
+        "5": "Kartoffelsalat"
+      }
+    },
+    {
+      "countryName": "Poland",
+      "officialName": "Republic of Poland",
+      "capital": "Warsaw",
+      "mainReligion": "Christianity (Catholic)",
+      "language": "Polish",
+      "leader": {
+        "title": "Prime Minister",
+        "first": "Donald",
+        "last": "Tusk"
+      },
+      "population": "37,700,000",
+      "currency": "Polish złoty",
+      "flag": "https://www.worldometers.info/img/flags/pl-flag.gif",
+      "landmarks": {
+        "1": "Wawel Castle",
+        "2": "Auschwitz-Birkenau",
+        "3": "Old Town Warsaw",
+        "4": "Malbork Castle",
+        "5": "Białowieża Forest"
+      },
+      "cuisine": {
+        "1": "Pierogi",
+        "2": "Bigos",
+        "3": "Żurek",
+        "4": "Gołąbki",
+        "5": "Paczki"
+      }
+    },
+    {
+      "countryName": "Hungary",
+      "officialName": "Hungary",
+      "capital": "Budapest",
+      "mainReligion": "Christianity (Catholic and Protestant)",
+      "language": "Hungarian",
+      "leader": {
+        "title": "Prime Minister",
+        "first": "Viktor",
+        "last": "Orbán"
+      },
+      "population": "9,600,000",
+      "currency": "Hungarian forint",
+      "flag": "https://www.worldometers.info/img/flags/hu-flag.gif",
+      "landmarks": {
+        "1": "Buda Castle",
+        "2": "Parliament of Hungary",
+        "3": "Lake Balaton",
+        "4": "Heroes' Square",
+        "5": "Eger Castle"
+      },
+      "cuisine": {
+        "1": "Goulash",
+        "2": "Lángos",
+        "3": "Pörkölt",
+        "4": "Chimney cake",
+        "5": "Halászlé"
+      }
+    },
+    {
+      "countryName": "Denmark",
+      "officialName": "Kingdom of Denmark",
+      "capital": "Copenhagen",
+      "mainReligion": "Christianity (Lutheran)",
+      "language": "Danish",
+      "leader": {
+        "title": "Prime Minister",
+        "first": "Mette",
+        "last": "Frederiksen"
+      },
+      "population": "5,900,000",
+      "currency": "Danish krone",
+      "flag": "https://www.worldometers.info/img/flags/da-flag.gif",
+      "landmarks": {
+        "1": "Little Mermaid Statue",
+        "2": "Tivoli Gardens",
+        "3": "Nyhavn",
+        "4": "Kronborg Castle",
+        "5": "LEGO House"
+      },
+      "cuisine": {
+        "1": "Smørrebrød",
+        "2": "Frikadeller",
+        "3": "Stegt flæsk",
+        "4": "Æbleskiver",
+        "5": "Rugbrød"
+      }
+    },
+    {
+      "countryName": "Portugal",
+      "officialName": "Portuguese Republic",
+      "capital": "Lisbon",
+      "mainReligion": "Christianity (Catholic)",
+      "language": "Portuguese",
+      "leader": {
+        "title": "Prime Minister",
+        "first": "Luís",
+        "last": "Montenegro"
+      },
+      "population": "10,300,000",
+      "currency": "Euro",
+      "flag": "https://www.worldometers.info/img/flags/po-flag.gif",
+      "landmarks": {
+        "1": "Belem Tower",
+        "2": "Pena Palace",
+        "3": "Douro Valley",
+        "4": "São Jorge Castle",
+        "5": "Azores"
+      },
+      "cuisine": {
+        "1": "Bacalhau",
+        "2": "Francesinha",
+        "3": "Pastel de nata",
+        "4": "Caldo verde",
+        "5": "Bifana"
+      }
+    }
+    {
+      "countryName": "United Kingdom",
+      "officialName": "United Kingdom of Great Britain and Northern Ireland",
+      "capital": "London",
+      "mainReligion": "Christianity",
+      "language": "English",
+      "leader": {
+        "title": "Prime Minister",
+        "first": "Rishi",
+        "last": "Sunak"
+      },
+      "population": "67,738,000",
+      "currency": "Pound sterling",
+      "flag": "https://www.worldometers.info/img/flags/uk-flag.gif",
+      "landmarks": {
+        "1": "Big Ben",
+        "2": "Tower of London",
+        "3": "Stonehenge",
+        "4": "Buckingham Palace",
+        "5": "Edinburgh Castle"
+      },
+      "cuisine": {
+        "1": "Fish and chips",
+        "2": "Shepherd's pie",
+        "3": "Full English breakfast",
+        "4": "Yorkshire pudding",
+        "5": "Afternoon tea"
+      }
+    },
+    {
+      "countryName": "Netherlands",
+      "officialName": "Kingdom of the Netherlands",
+      "capital": "Amsterdam",
+      "mainReligion": "Christianity",
+      "language": "Dutch",
+      "leader": {
+        "title": "Prime Minister",
+        "first": "Mark",
+        "last": "Rutte"
+      },
+      "population": "17,611,600",
+      "currency": "Euro",
+      "flag": "https://www.worldometers.info/img/flags/nl-flag.gif",
+      "landmarks": {
+        "1": "Rijksmuseum",
+        "2": "Anne Frank House",
+        "3": "Keukenhof Gardens",
+        "4": "Windmills at Kinderdijk",
+        "5": "Van Gogh Museum"
+      },
+      "cuisine": {
+        "1": "Stroopwafel",
+        "2": "Bitterballen",
+        "3": "Haring",
+        "4": "Poffertjes",
+        "5": "Erwtensoep"
+      }
+    },
+    {
+      "countryName": "Switzerland",
+      "officialName": "Swiss Confederation",
+      "capital": "Bern",
+      "mainReligion": "Christianity",
+      "language": "German, French, Italian, Romansh",
+      "leader": {
+        "title": "President",
+        "first": "Viola",
+        "last": "Amherd"
+      },
+      "population": "8,738,791",
+      "currency": "Swiss franc",
+      "flag": "https://www.worldometers.info/img/flags/sz-flag.gif",
+      "landmarks": {
+        "1": "Matterhorn",
+        "2": "Jungfraujoch",
+        "3": "Château de Chillon",
+        "4": "Lake Geneva",
+        "5": "Rhine Falls"
+      },
+      "cuisine": {
+        "1": "Fondue",
+        "2": "Rösti",
+        "3": "Zürcher geschnetzeltes",
+        "4": "Raclette",
+        "5": "Basler läckerli"
+      }
+    }
+    {
+      "countryName": "Ukraine",
+      "officialName": "Ukraine",
+      "capital": "Kyiv",
+      "mainReligion": "Eastern Orthodoxy",
+      "language": "Ukrainian",
+      "leader": {
+        "title": "President",
+        "first": "Volodymyr",
+        "last": "Zelenskyy"
+      },
+      "population": "41,167,336",
+      "currency": "Ukrainian hryvnia",
+      "flag": "https://www.worldometers.info/img/flags/up-flag.gif",
+      "landmarks": {
+        "1": "Saint Sophia's Cathedral",
+        "2": "Chernobyl Exclusion Zone",
+        "3": "Potemkin Stairs",
+        "4": "Lviv's Old Town",
+        "5": "Tunnel of Love"
+      },
+      "cuisine": {
+        "1": "Borscht",
+        "2": "Varenyky",
+        "3": "Holubtsi",
+        "4": "Deruny",
+        "5": "Salo"
+      }
+    },
+    {
+      "countryName": "Morocco",
+      "officialName": "Kingdom of Morocco",
+      "capital": "Rabat",
+      "mainReligion": "Islam",
+      "language": "Arabic, Berber",
+      "leader": {
+        "title": "King",
+        "first": "Mohammed",
+        "last": "VI"
+      },
+      "population": "37,112,080",
+      "currency": "Moroccan dirham",
+      "flag": "https://www.worldometers.info/img/flags/mo-flag.gif",
+      "landmarks": {
+        "1": "Hassan II Mosque",
+        "2": "Chefchaouen",
+        "3": "Sahara Desert",
+        "4": "Aït Benhaddou",
+        "5": "Jemaa el-Fnaa"
+      },
+      "cuisine": {
+        "1": "Tagine",
+        "2": "Couscous",
+        "3": "Pastilla",
+        "4": "Harira",
+        "5": "Mechoui"
+      }
+    },
+    {
+      "countryName": "Canada",
+      "officialName": "Canada",
+      "capital": "Ottawa",
+      "mainReligion": "Christianity",
+      "language": "English, French",
+      "leader": {
+        "title": "Prime Minister",
+        "first": "Justin",
+        "last": "Trudeau"
+      },
+      "population": "38,929,902",
+      "currency": "Canadian dollar",
+      "flag": "https://www.worldometers.info/img/flags/ca-flag.gif",
+      "landmarks": {
+        "1": "Niagara Falls",
+        "2": "CN Tower",
+        "3": "Banff National Park",
+        "4": "Old Quebec",
+        "5": "Stanley Park"
+      },
+      "cuisine": {
+        "1": "Poutine",
+        "2": "Bannock",
+        "3": "Tourtière",
+        "4": "Butter tarts",
+        "5": "Nanaimo bars"
+      }
+    }
+    {
+      "countryName": "Sweden",
+      "officialName": "Kingdom of Sweden",
+      "capital": "Stockholm",
+      "mainReligion": "Christianity (Lutheranism)",
+      "language": "Swedish",
+      "leader": {
+        "title": "Prime Minister",
+        "first": "Ulf",
+        "last": "Kristersson"
+      },
+      "population": "10,450,836",
+      "currency": "Swedish krona",
+      "flag": "https://www.worldometers.info/img/flags/sw-flag.gif",
+      "landmarks": {
+        "1": "Vasa Museum",
+        "2": "Drottningholm Palace",
+        "3": "Gamla Stan",
+        "4": "Abisko National Park",
+        "5": "Icehotel"
+      },
+      "cuisine": {
+        "1": "Meatballs",
+        "2": "Gravlax",
+        "3": "Surströmming",
+        "4": "Kanelbullar",
+        "5": "Janssons frestelse"
+      }
+    },
+    {
+      "countryName": "Puerto Rico",
+      "officialName": "Commonwealth of Puerto Rico",
+      "capital": "San Juan",
+      "mainReligion": "Christianity (Catholicism, Protestantism)",
+      "language": "Spanish, English",
+      "leader": {
+        "title": "Governor",
+        "first": "Pedro",
+        "last": "Pierluisi"
+      },
+      "population": "3,221,789",
+      "currency": "United States Dollar (USD)",
+      "flag": "https://www.worldometers.info/img/flags/rq-flag.gif",
+      "landmarks": {
+        "1": "El Yunque National Forest",
+        "2": "Castillo San Felipe del Morro",
+        "3": "Flamenco Beach",
+        "4": "Old San Juan",
+        "5": "Cueva Ventana"
+      },
+      "cuisine": {
+        "1": "Mofongo",
+        "2": "Lechón",
+        "3": "Tostones",
+        "4": "Arroz con gandules",
+        "5": "Tembleque"
+      }
+    },
+    {
+      "countryName": "Vietnam",
+      "officialName": "Socialist Republic of Vietnam",
+      "capital": "Hanoi",
+      "mainReligion": "Buddhism, Folk religions",
+      "language": "Vietnamese",
+      "leader": {
+        "title": "President",
+        "first": "To Lam",
+        "last": ""
+      },
+      "population": "98,858,950",
+      "currency": "Vietnamese đồng",
+      "flag": "https://www.worldometers.info/img/flags/vm-flag.gif",
+      "landmarks": {
+        "1": "Ha Long Bay",
+        "2": "Hội An Ancient Town",
+        "3": "Phong Nha-Kẻ Bàng National Park",
+        "4": "Ho Chi Minh Mausoleum",
+        "5": "Củ Chi Tunnels"
+      },
+      "cuisine": {
+        "1": "Phở",
+        "2": "Bánh mì",
+        "3": "Gỏi cuốn",
+        "4": "Bún chả",
+        "5": "Bánh xèo"
+      }
+    },
+    {
+      "countryName": "Finland",
+      "officialName": "Republic of Finland",
+      "capital": "Helsinki",
+      "mainReligion": "Christianity (Lutheranism)",
+      "language": "Finnish, Swedish",
+      "leader": {
+        "title": "Prime Minister",
+        "first": "Petteri",
+        "last": "Orpo"
+      },
+      "population": "5,556,919",
+      "currency": "Euro",
+      "flag": "https://www.worldometers.info/img/flags/fi-flag.gif",
+      "landmarks": {
+        "1": "Suomenlinna",
+        "2": "Santa Claus Village",
+        "3": "Northern Lights in Lapland",
+        "4": "Temppeliaukio Church",
+        "5": "Lake Saimaa"
+      },
+      "cuisine": {
+        "1": "Karjalanpiirakka",
+        "2": "Ruisleipä",
+        "3": "Kalakukko",
+        "4": "Lohikeitto",
+        "5": "Mämmi"
+      }
+    },
+    {
+      "countryName": "China",
+      "officialName": "People's Republic of China",
+      "capital": "Beijing",
+      "mainReligion": "Buddhism, Taoism, Folk religions",
+      "language": "Mandarin Chinese",
+      "leader": {
+        "title": "President",
+        "first": "Xi",
+        "last": "Jinping"
+      },
+      "population": "1,425,671,352",
+      "currency": "Renminbi (Yuan)",
+      "flag": "https://www.worldometers.info/img/flags/ch-flag.gif",
+      "landmarks": {
+        "1": "Great Wall of China",
+        "2": "Forbidden City",
+        "3": "Terracotta Army",
+        "4": "Zhangjiajie National Forest Park",
+        "5": "Potala Palace"
+      },
+      "cuisine": {
+        "1": "Peking duck",
+        "2": "Hotpot",
+        "3": "Dumplings",
+        "4": "Kung Pao chicken",
+        "5": "Mapo tofu"
+      }
+    },
+    {
+      "countryName": "Turkey",
+      "officialName": "Republic of Turkey",
+      "capital": "Ankara",
+      "mainReligion": "Islam",
+      "language": "Turkish",
+      "leader": {
+        "title": "President",
+        "first": "Recep Tayyip",
+        "last": "Erdoğan"
+      },
+      "population": "86,372,359",
+      "currency": "Turkish lira",
+      "flag": "https://www.worldometers.info/img/flags/tu-flag.gif",
+      "landmarks": {
+        "1": "Hagia Sophia",
+        "2": "Pamukkale",
+        "3": "Cappadocia",
+        "4": "Ephesus",
+        "5": "Topkapi Palace"
+      },
+      "cuisine": {
+        "1": "Kebabs",
+        "2": "Baklava",
+        "3": "Manti",
+        "4": "Lahmacun",
+        "5": "Menemen"
+      }
+    }
+    {
+      "countryName": "El Salvador",
+      "officialName": "Republic of El Salvador",
+      "capital": "San Salvador",
+      "mainReligion": "Christianity (Catholicism, Protestantism)",
+      "language": "Spanish",
+      "leader": {
+        "title": "President",
+        "first": "Nayib",
+        "last": "Bukele"
+      },
+      "population": "6,568,745",
+      "currency": "United States Dollar (USD), Bitcoin",
+      "flag": "https://www.worldometers.info/img/flags/es-flag.gif",
+      "landmarks": {
+        "1": "Joya de Cerén",
+        "2": "Santa Ana Volcano",
+        "3": "Tazumal",
+        "4": "El Tunco Beach",
+        "5": "Suchitoto"
+      },
+      "cuisine": {
+        "1": "Pupusas",
+        "2": "Yuca frita",
+        "3": "Sopa de pata",
+        "4": "Tamales",
+        "5": "Empanadas de leche"
+      }
+    }
   ]
+  
 }
