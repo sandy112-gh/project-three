@@ -1,5 +1,19 @@
+import ArticleCard from './ArticleCard'
+
 const ArticleSection = () => {
-  return <div class="articleSectionStyle"></div>
+  return (
+    <div class="articleSectionStyle">
+      <ArticleCard />
+      <ArticleCard />
+      <ArticleCard />
+      <ArticleCard />
+      <ArticleCard />
+      <ArticleCard />
+      <ArticleCard />
+      <ArticleCard />
+      <ArticleCard />
+    </div>
+  )
 }
 
 export default ArticleSection
