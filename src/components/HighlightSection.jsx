@@ -1,5 +1,5 @@
 const HighlightSection = () => {
-  return <div></div>
+  return <div class="highlightSectionStyle"></div>
 }
 
 export default HighlightSection

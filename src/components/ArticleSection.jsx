@@ -1,5 +1,5 @@
 const ArticleSection = () => {
-  return <div></div>
+  return <div class="articleSectionStyle"></div>
 }
 
 export default ArticleSection
