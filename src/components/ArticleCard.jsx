@@ -1,9 +1,10 @@
-const ArticleCard = () => {
+const ArticleCard = ({ image, title, date, summary }) => {
   return (
     <div class="articleCardStyle">
-      <p>Some Kind of Article Title</p>
-      <p>Date: 01/01/01</p>
-      <p>Some summary highlight of the article will be here.</p>
+      <img class="articleCardImageStyle" src={image} />
+      <h4>{title}</h4>
+      <p>{date}</p>
+      <p>{summary}</p>
     </div>
   )
 }

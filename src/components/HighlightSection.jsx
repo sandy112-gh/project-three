@@ -1,7 +1,7 @@
 const HighlightSection = () => {
   return (
     <div class="highlightSectionStyle">
-      <h2 class="highlightSectionTitle">Country Highligh:</h2>
+      <h2 class="highlightSectionTitle">Spotlight on Thailand:</h2>
     </div>
   )
 }
