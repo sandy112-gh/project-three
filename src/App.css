@@ -7,10 +7,15 @@ body {
 nav {
   display: flex;
   flex-direction: row;
-  justify-content: space-evenly;
+  padding: 0 50px;
+  justify-content: space-between;
   align-items: center;
   height: 50px;
-  background-color: pink;
+  background-color: white;
+}
+
+nav section {
+  display: flex;
 }
 
 .navLogoTitle {
@@ -24,6 +29,8 @@ nav div {
   font-size: 15px;
   color: black;
   font-family: sans-serif;
+  display: flex;
+  padding: 0 10px;
 }
 nav div:hover {
   color: #545454;
