@@ -37,19 +37,36 @@ nav div:hover {
   font-weight: bold;
 }
 
+.headerBannerStyle {
+  position: relative;
+  background: url('https://www.hostelworld.com/blog/wp-content/uploads/2017/08/girlgoneabroad.jpg')
+    center;
+  height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  text-align: center;
+  padding: 0 50px;
+}
+
 .articleSectionStyle {
-  height: 200px;
   background-color: green;
+  padding: 0 50px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 20px;
 }
 
 .articleCardStyle {
-  width: 200px;
+  width: 1fr;
   height: 250px;
-  padding: 10px;
+  padding: 20px;
   background-color: purple;
 }
 
 .highlightSectionStyle {
   height: 300px;
   background-color: blue;
+  padding: 0 50px;
 }

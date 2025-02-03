@@ -6,12 +6,6 @@ const ArticleSection = () => {
       <ArticleCard />
       <ArticleCard />
       <ArticleCard />
-      <ArticleCard />
-      <ArticleCard />
-      <ArticleCard />
-      <ArticleCard />
-      <ArticleCard />
-      <ArticleCard />
     </div>
   )
 }
