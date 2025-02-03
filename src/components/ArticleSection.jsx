@@ -17,7 +17,7 @@ const ArticleSection = () => {
         'https://www.state.gov/wp-content/uploads/2019/04/Japan-2107x1406.jpg'
     },
     {
-      title: 'Top 10 Things to do in Brazil',
+      title: 'Top 10 Things to Do in Brazil',
       date: '01-28-2025',
       summary: 'The highlights of traveling through Brazil.',
       image:
