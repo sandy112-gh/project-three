@@ -10,7 +10,7 @@ const HighlightSection = () => {
         class="highlightSectionImage"
         src="https://www.onenationtravel.com/wp-content/uploads/2023/04/Thailand2.jpg.webp"
       />
-      <div>
+      <div class="highlightSectionFacts">
         <Country Thailand={Thailand} />
       </div>
     </div>
