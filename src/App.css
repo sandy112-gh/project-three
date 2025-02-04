@@ -58,7 +58,7 @@ nav div:hover {
 /* ARTICLE SECTION */
 
 .articleSectionStyle {
-  padding: 20px 50px;
+  padding: 50px 50px;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: 50px 2fr 2fr;
@@ -94,7 +94,8 @@ nav div:hover {
 
 .highlightSectionStyle {
   height: 550px;
-  padding: 20px 50px;
+  padding: 50px 50px;
+  background-color: #d8d8d8;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: 50px 2fr 2fr;
