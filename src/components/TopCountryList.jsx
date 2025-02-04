@@ -1,7 +1,10 @@
 const TopCountryList = (props) => {
   return (
     <div>
-      <p>{props.countryName}</p>
+      <img class="countryFlags" src={props.flag}></img>
+      <ul class="countryListItems">
+        <li>{props.countryName}</li>
+      </ul>
     </div>
   )
 }

@@ -93,12 +93,11 @@ nav div:hover {
 /* HIGHLIGHT SECTION */
 
 .highlightSectionStyle {
-  height: 500px;
+  height: 550px;
   padding: 20px 50px;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: 50px 2fr 2fr;
-  background-color: blue;
 }
 
 .highlightSectionTitle {
@@ -124,16 +123,25 @@ nav div:hover {
 /* TOP COUNTRIES SECTION */
 
 .topCountrySectionStyle {
-  height: 300px;
   padding: 20px 50px;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: 50px 2fr 2fr;
-  background-color: orange;
 }
 
 .topCountrySectionTitle {
   padding: 20px 0;
   margin: 10px 0;
   grid-column: span 3;
+}
+
+.countryListItems {
+  list-style: none;
+  padding: 5px;
+}
+
+.countryFlags {
+  padding: 20px 0 0 0;
+  width: 150px;
+  object-fit: cover;
 }

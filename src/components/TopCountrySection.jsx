@@ -9,6 +9,7 @@ const TopCountrySection = () => {
         <TopCountryList
           key={country.countryName}
           countryName={country.countryName}
+          flag={country.flag}
         />
       ))}
     </div>
