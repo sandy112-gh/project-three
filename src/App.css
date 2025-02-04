@@ -58,7 +58,7 @@ nav div:hover {
 /* ARTICLE SECTION */
 
 .articleSectionStyle {
-  padding: 20px 50px;
+  padding: 50px 50px;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: 50px 2fr 2fr;
@@ -77,7 +77,11 @@ nav div:hover {
   padding: 20px;
   background-color: white;
   border-radius: 10px;
-  box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.3);
+  box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.articleCardStyle:hover {
+  box-shadow: 4px 8px 20px rgba(0, 0, 0, 0.5);
 }
 
 .articleCardImageStyle {
@@ -90,7 +94,7 @@ nav div:hover {
 
 .highlightSectionStyle {
   height: 300px;
-  padding: 0 50px;
+  padding: 50px 50px;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: 50px 2fr 2fr;
