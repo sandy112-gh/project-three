@@ -6,6 +6,7 @@ import Country from './components/Country'
 import ArticleSection from './components/ArticleSection'
 import ArticleCard from './components/ArticleCard'
 import HighlightSection from './components/HighlightSection'
+import TopCountrySection from './components/TopCountrySection'
 
 const App = () => {
   return (
@@ -14,6 +15,7 @@ const App = () => {
       <HeaderBanner />
       <ArticleSection />
       <HighlightSection />
+      <TopCountrySection />
     </div>
   )
 }
