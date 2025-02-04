@@ -16,6 +16,14 @@ const Country = ({ Thailand }) => {
         <li>{Thailand.landmarks[4]}</li>
         <li>{Thailand.landmarks[5]}</li>
       </ul>
+      <h4>Essential Food to Try:</h4>
+      <ul>
+        <li>{Thailand.cuisine[1]}</li>
+        <li>{Thailand.cuisine[2]}</li>
+        <li>{Thailand.cuisine[3]}</li>
+        <li>{Thailand.cuisine[4]}</li>
+        <li>{Thailand.cuisine[5]}</li>
+      </ul>
     </div>
   )
 }
