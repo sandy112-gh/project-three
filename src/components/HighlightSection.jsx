@@ -9,16 +9,6 @@ const HighlightSection = () => {
       <div>
         <Country Thailand={Thailand} />
       </div>
-      {/* <div>
-        {countries.countries.map((country) => (
-          <Country
-            key={country.countryName}
-            countryName={country.countryName}
-            capital={country.capital}
-            currency={country.currency}
-          />
-        ))}
-      </div> */}
     </div>
   )
 }

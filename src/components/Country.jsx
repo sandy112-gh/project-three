@@ -1,9 +1,13 @@
 const Country = ({ Thailand }) => {
   return (
     <div>
-      <h5>Country: {Thailand.countryName}</h5>
-      <h5>Capital: {Thailand.capital}</h5>
-      <h5>Currency: {Thailand.currency}</h5>
+      <h4>Important Facts on {Thailand.countryName}:</h4>
+      <ul>
+        <li>Country: {Thailand.countryName}</li>
+        <li>Capital: {Thailand.capital}</li>
+        <li>Language: {Thailand.language}</li>
+        <li>Currency: {Thailand.currency}</li>
+      </ul>
     </div>
   )
 }
